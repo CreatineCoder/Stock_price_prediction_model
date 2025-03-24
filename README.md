@@ -1,1 +1,1 @@
-#<H1>Model to predict opening stock price </H1>
+<H1>Model to predict opening stock price </H1>
